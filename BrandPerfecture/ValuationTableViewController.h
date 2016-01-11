@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  ValuationTableViewController.h
 //  BrandPerfecture
 //
 //  Created by 薛焱 on 16/1/5.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface ValuationTableViewController : UITableViewController
 
 @end
-
